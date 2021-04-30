@@ -61,6 +61,7 @@ Hrrn hrrn[N];
 int main()
 {
     Init_process();    //进程初始化
+    printf("11111");
     while(1)
     {
         char YorN = 'Y';
