@@ -62,6 +62,8 @@ int main()
 {
     Init_process();    //进程初始化
     printf("1111122222222");
+    
+    printf("5555555555555555555");
     while(1)
     {
         char YorN = 'Y';
