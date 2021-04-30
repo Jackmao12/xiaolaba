@@ -349,6 +349,7 @@ SPF输出中间状态
 *************************************/
 void Status_Output(PCB O_PCB[])
 {
+printf("zhangqian");
     PCB Res_PCB[N];
     int t = 0;
     int excute_time = O_PCB[0].arrival_time;
