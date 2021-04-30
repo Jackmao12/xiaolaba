@@ -565,7 +565,7 @@ bool cmp_hrrn(Hrrn a, Hrrn b)
 *************************************/
 void HRRN()
 {
-
+printf("陈万鲁");
     PCB HRRN_pcb[N];
     bool vis[N] ={0};                            //标记数组，标记进程是不是被放进执行序列汇总
     int sequence[N] = {0},t=0;                   //存进程执行的序列下标 ——便于转化PCB结构体数组，得到正确的执行顺序
